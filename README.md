@@ -10,15 +10,15 @@ Hãy mạnh dạn gửi hồ sơ (bản scan) về Email: vanphong.thuannhien@gm
 
 Yêu cầu về cộng sự:
 
-☘️Những thầy cô giáo hoặc những người muốn trở thành thầy cô giáo, và có thể đồng hành cùng con trẻ ở Nhà Thuận Nhiên ít nhất 5 năm.
-
-☘️Yêu thích trẻ em và yêu thích các công việc hướng đến sự phát triển của cộng đồng.
-
-☘️Có mong muốn thực hành lối sống đơn giản, phát triển bản thân
-
-☘️Có mong muốn tiếp cận phương pháp giáo dục mới.
-
-☘️Sự sẵn sàng cho việc học hỏi, cải thiện bản thân.
+  ☘️Những thầy cô giáo hoặc những người muốn trở thành thầy cô giáo, và có thể đồng hành cùng con trẻ ở Nhà Thuận Nhiên ít nhất 5 năm.
+  
+  ☘️Yêu thích trẻ em và yêu thích các công việc hướng đến sự phát triển của cộng đồng.
+  
+  ☘️Có mong muốn thực hành lối sống đơn giản, phát triển bản thân
+  
+  ☘️Có mong muốn tiếp cận phương pháp giáo dục mới.
+  
+  ☘️Sự sẵn sàng cho việc học hỏi, cải thiện bản thân.
 
 Các vị trí cần tuyển: Giáo viên mầm non, giáo viên tiểu học, giáo viên THPT, giáo viên tiếng Anh, giáo viên tiếng Trung.
 
