@@ -8,7 +8,7 @@ Thuở bé, chúng ta đã từng là những em bé hồn nhiên và trong sán
 
 Để chuẩn bị cho ngôi nhà mới vững mạnh và tự tin hơn, nay Nhà Thuận Nhiên mong muốn tìm những cộng sự tâm huyết để cùng chung tay xây Nhà mới.
 
-Hãy mạnh dạn gửi hồ sơ (bản scan) về Email: vanphong.thuannhien@gmail.com (trước ngày 15/07/2025)
+Hãy mạnh dạn gửi hồ sơ (bản scan) về Email: vanphong.thuannhien@gmail.com
 
 Yêu cầu về cộng sự:
 
