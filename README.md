@@ -1,10 +1,10 @@
 # [NHÀ THUẬN NHIÊN](https://www.facebook.com/nhathuannhien)
 
-## 🍀NHÀ THUẬN NHIÊN TÌM CỘNG SỰ🍀
+## 🍀NHÀ THUẬN NHIÊN TÌM CỘNG SỰ (English below)🍀
 
 Gửi những người thương yêu của Nhà Thuận Nhiên chúng mình! 
 
-Thuở bé, chúng ta đã từng là những em bé hồn nhiên và trong sáng, nhưng ai trong số chúng ta thật sự là một đứa trẻ trưởng thành và sống hạnh phúc? Làm thế nào để có thể nuôi dưỡng và phát triển trẻ hạnh phúc với đầy đủ trí tuệ và tình yêu thương? Làm thế nào để trẻ luôn nhận diện rõ về bản thân, biết cân bằng cảm xúc và vững chãi nội tâm? Đó là trăn trở lớn nhất của những người bố người mẹ với tất cả tình yêu thương vô bờ dành cho con. Cùng với các thầy cô, những con người vô cùng tâm huyết về sự nghiệp nuôi dưỡng và giáo dục “trẻ hạnh phúc”.
+Thuở bé, chúng ta đã từng là những em bé hồn nhiên và trong sáng, nhưng ai trong số chúng ta thật sự là một đứa trẻ trưởng thành và sống hạnh phúc? Làm thế nào để làm được điều đó?
 
 Để chuẩn bị cho ngôi nhà mới vững mạnh và tự tin hơn, nay Nhà Thuận Nhiên mong muốn tìm những cộng sự tâm huyết để cùng chung tay xây Nhà mới.
 
@@ -27,4 +27,34 @@ Các vị trí cần tuyển: Giáo viên mầm non, giáo viên tiểu học, g
 
  ☘️Yêu thương ☘️
  
+Nhà Thuận Nhiên
+
+---
+
+## 🍀NHÀ THUẬN NHIÊN IS LOOKING FOR TEAMMATES🍀
+
+Dear friends and beloved ones of Nhà Thuận Nhiên,
+
+As children, we were all once innocent and pure, but how many of us truly grow up to be happy and fulfilled adults? How do we achieve that?
+
+To build a stronger and more confident new home, Nhà Thuận Nhiên is looking for dedicated teammates to join us in creating this new space.
+
+Please send your application (scanned copy) to: vanphong.thuannhien@gmail.com
+
+Requirements for teammates:
+
+- ☘️Teachers or those aspiring to become teachers, who can commit to accompany children at Nhà Thuận Nhiên for at least 5 years.
+
+- ☘️Love working with children and are passionate about activities that promote community development.
+
+- ☘️Desire to practice a simple lifestyle and personal growth.
+
+- ☘️Willingness to explore new educational approaches.
+
+- ☘️Openness to learning and self-improvement.
+
+Positions available: Kindergarten teachers, Primary school teachers, High school teachers, English teachers, Chinese teachers.
+
+ ☘️With love ☘️
+
 Nhà Thuận Nhiên
