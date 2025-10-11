@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Trường Waldorf Nhà Thuận Nhiên</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>Nhà Thuận Nhiên</h1>
+                <p class="tagline">Waldorf School</p>
+            </div>
+            <nav class="nav" id="mainNav">
+                <ul>
+                    <li><a href="index.html">Trang chủ</a></li>
+                    <li><a href="about.html">Về chúng tôi</a></li>
+                    <li><a href="programs.html">Chương trình học</a></li>
+                    <li><a href="events.html">Sự kiện</a></li>
+                    <li><a href="blog.html" class="active">Blog</a></li>
+                    <li><a href="resources.html">Tài nguyên</a></li>
+                    <li><a href="admission.html">Đăng ký</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-btn" onclick="toggleMobileMenu()">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
+
+    <section class="hero" style="padding: 3rem 0;">
+        <div class="hero-content">
+            <h2>Blog</h2>
+            <p>Chia sẻ kiến thức về giáo dục Waldorf</p>
+        </div>
+    </section>
+
+    <section style="padding: 4rem 0;">
+        <div class="container">
+            <div class="news-grid">
+                <article class="news-card">
+                    <div class="news-image">
+                        <img src="images/blog-waldorf.jpg" alt="Blog"
+                            onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22400%22 height=%22250%22%3E%3Crect fill=%22%23f3e5f5%22 width=%22400%22 height=%22250%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2218%22 fill=%22%239c27b0%22%3EBlog%3C/text%3E%3C/svg%3E'">
+                        <span class="news-badge blog">Giáo dục</span>
+                    </div>
+                    <div class="news-content">
+                        <span class="news-date"><i class="fas fa-calendar"></i> 10/10/2025</span>
+                        <h3>Tại sao chọn giáo dục Waldorf?</h3>
+                        <p>Khám phá những lợi ích độc đáo của phương pháp giáo dục Waldorf cho sự phát triển toàn diện
+                            của trẻ...</p>
+                        <a href="#" class="read-more">Đọc thêm <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2025 Trường Waldorf Nhà Thuận Nhiên. Tất cả quyền được bảo lưu.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>

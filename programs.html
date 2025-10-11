@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Chương trình học tại Trường Waldorf Nhà Thuận Nhiên - Phát triển toàn diện cho từng độ tuổi">
+    <title>Chương trình học - Trường Waldorf Nhà Thuận Nhiên</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>Nhà Thuận Nhiên</h1>
+                <p class="tagline">Waldorf School</p>
+            </div>
+            <nav class="nav" id="mainNav">
+                <ul>
+                    <li><a href="index.html">Trang chủ</a></li>
+                    <li><a href="about.html">Về chúng tôi</a></li>
+                    <li><a href="programs.html" class="active">Chương trình học</a></li>
+                    <li><a href="events.html">Sự kiện</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="resources.html">Tài nguyên</a></li>
+                    <li><a href="admission.html">Đăng ký</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
+                    <li class="language-switch">
+                        <a href="#" onclick="switchLanguage('vi')">VI</a> |
+                        <a href="#" onclick="switchLanguage('en')">EN</a>
+                    </li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-btn" onclick="toggleMobileMenu()">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
+
+    <section class="hero" style="padding: 3rem 0;">
+        <div class="hero-content">
+            <h2>Chương trình học</h2>
+            <p>Phát triển toàn diện theo từng giai đoạn</p>
+        </div>
+    </section>
+
+    <section style="padding: 4rem 0;">
+        <div class="container">
+            <h2 class="section-title">Các cấp học</h2>
+
+            <div class="intro-grid" style="margin-bottom: 4rem;">
+                <div class="intro-image">
+                    <img src="images/kindergarten.jpg" alt="Mẫu giáo"
+                        onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22500%22 height=%22400%22%3E%3Crect fill=%22%23fff3e0%22 width=%22500%22 height=%22400%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2224%22 fill=%22%23ff9800%22%3EM%E1%BA%ABu gi%C3%A1o%3C/text%3E%3C/svg%3E'">
+                </div>
+                <div class="intro-text">
+                    <h2><i class="fas fa-seedling" style="color: #6B8E23;"></i> Mẫu giáo (3-6 tuổi)</h2>
+                    <p><strong>Trọng tâm:</strong> Phát triển thông qua chơi và bắt chước</p>
+                    <p>Giai đoạn mẫu giáo tập trung vào việc xây dựng nền tảng vững chắc thông qua:</p>
+                    <ul style="margin-left: 2rem; color: #7f8c8d;">
+                        <li style="margin-bottom: 0.5rem;">✓ Chơi tự do với đồ chơi tự nhiên</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Hoạt động nghệ thuật: vẽ, tô màu bằng sáp ong</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Kể chuyện và trò chơi vần điệu</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Hoạt động thực hành: nấu ăn, làm vườn</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Chuyển động nhịp điệu và ca hát</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="intro-grid" style="margin-bottom: 4rem; grid-template-columns: 1fr 1fr;">
+                <div class="intro-text">
+                    <h2><i class="fas fa-book-open" style="color: #2196f3;"></i> Tiểu học (6-12 tuổi)</h2>
+                    <p><strong>Trọng tâm:</strong> Phát triển tư duy và cảm xúc</p>
+                    <p>Chương trình tiểu học kết hợp hài hòa giữa học thuật và nghệ thuật:</p>
+                    <ul style="margin-left: 2rem; color: #7f8c8d;">
+                        <li style="margin-bottom: 0.5rem;">✓ Học theo khối (block teaching)</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Toán học, ngôn ngữ, khoa học tự nhiên</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Nghệ thuật tích hợp: âm nhạc, hội họa, thủ công</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Hoạt động ngoại khóa phong phú</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Phát triển kỹ năng xã hội và làm việc nhóm</li>
+                    </ul>
+                </div>
+                <div class="intro-image">
+                    <img src="images/primary.jpg" alt="Tiểu học"
+                        onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22500%22 height=%22400%22%3E%3Crect fill=%22%23e3f2fd%22 width=%22500%22 height=%22400%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2224%22 fill=%22%232196f3%22%3ETi%E1%BB%83u h%E1%BB%8Dc%3C/text%3E%3C/svg%3E'">
+                </div>
+            </div>
+
+            <div class="intro-grid">
+                <div class="intro-image">
+                    <img src="images/secondary.jpg" alt="Trung học"
+                        onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22500%22 height=%22400%22%3E%3Crect fill=%22%23f3e5f5%22 width=%22500%22 height=%22400%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2224%22 fill=%22%239c27b0%22%3ETrung h%E1%BB%8Dc%3C/text%3E%3C/svg%3E'">
+                </div>
+                <div class="intro-text">
+                    <h2><i class="fas fa-graduation-cap" style="color: #9c27b0;"></i> Trung học (12-18 tuổi)</h2>
+                    <p><strong>Trọng tâm:</strong> Phát triển tư duy độc lập và trách nhiệm</p>
+                    <p>Giai đoạn trung học giúp học sinh phát triển toàn diện:</p>
+                    <ul style="margin-left: 2rem; color: #7f8c8d;">
+                        <li style="margin-bottom: 0.5rem;">✓ Chương trình học thuật chuyên sâu</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Dự án cá nhân và nghiên cứu độc lập</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Thực hành nghề nghiệp và định hướng</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Phát triển tư duy phản biện</li>
+                        <li style="margin-bottom: 0.5rem;">✓ Chuẩn bị cho đại học và cuộc sống</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section style="padding: 4rem 0; background: #f8f9fa;">
+        <div class="container">
+            <h2 class="section-title">Hoạt động ngoại khóa</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-music"></i>
+                    </div>
+                    <h3>Âm nhạc</h3>
+                    <p>Học nhạc cụ, hòa tấu, hát xướng. Phát triển khả năng cảm thụ âm nhạc và làm việc nhóm.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-palette"></i>
+                    </div>
+                    <h3>Mỹ thuật</h3>
+                    <p>Vẽ, tô màu, điêu khắc, gốm. Khơi dậy khả năng sáng tạo và thẩm mỹ.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-running"></i>
+                    </div>
+                    <h3>Thể thao</h3>
+                    <p>Eurythmy, yoga, thể dục nhịp điệu. Phát triển thể chất và ý thức về cơ thể.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <h3>Làm vườn</h3>
+                    <p>Trồng trọt, chăm sóc cây cối. Kết nối với thiên nhiên và học về trách nhiệm.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-hands"></i>
+                    </div>
+                    <h3>Thủ công</h3>
+                    <p>Dệt, may, làm gỗ. Phát triển kỹ năng thực hành và sự kiên nhẫn.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-utensils"></i>
+                    </div>
+                    <h3>Nấu ăn</h3>
+                    <p>Chuẩn bị thực phẩm lành mạnh. Học về dinh dưỡng và kỹ năng sống.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section style="padding: 4rem 0;">
+        <div class="container">
+            <h2 class="section-title">Lịch học điển hình</h2>
+            <div class="intro-grid">
+                <div class="feature-card" style="padding: 2rem;">
+                    <h3 style="color: #6B8E23; margin-bottom: 1.5rem;">Buổi sáng</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #6B8E23; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>7:30 - 8:00</strong><br>Đón học sinh
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #6B8E23; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>8:00 - 10:00</strong><br>Khối học chính (Main Lesson)
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #6B8E23; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>10:00 - 10:30</strong><br>Ăn sáng & nghỉ giải lao
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #6B8E23; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>10:30 - 12:00</strong><br>Các môn phụ (nghệ thuật, ngoại ngữ)
+                        </li>
+                    </ul>
+                </div>
+                <div class="feature-card" style="padding: 2rem;">
+                    <h3 style="color: #E07A5F; margin-bottom: 1.5rem;">Buổi chiều</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #E07A5F; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>12:00 - 13:00</strong><br>Ăn trưa
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #E07A5F; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>13:00 - 13:30</strong><br>Nghỉ trưa / chơi tự do
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #E07A5F; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>13:30 - 15:30</strong><br>Hoạt động ngoại khóa
+                        </li>
+                        <li
+                            style="padding: 0.75rem; border-left: 3px solid #E07A5F; margin-bottom: 0.5rem; background: #f8f9fa;">
+                            <strong>15:30 - 17:00</strong><br>Chơi tự do & đón về
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Quan tâm đến chương trình học?</h2>
+                <p>Đăng ký tham quan để trải nghiệm trực tiếp môi trường học tập của chúng tôi</p>
+                <div class="cta-buttons">
+                    <a href="admission.html" class="btn btn-light">Đăng ký ngay</a>
+                    <a href="contact.html" class="btn btn-outline">Tư vấn chi tiết</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>Về Nhà Thuận Nhiên</h3>
+                    <p>Trường Waldorf Nhà Thuận Nhiên - Nơi mỗi đứa trẻ được tôn trọng, yêu thương và phát triển toàn
+                        diện theo triết lý giáo dục Waldorf.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                        <a href="#" aria-label="Email"><i class="fas fa-envelope"></i></a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h3>Liên kết nhanh</h3>
+                    <ul>
+                        <li><a href="about.html">Về chúng tôi</a></li>
+                        <li><a href="programs.html">Chương trình học</a></li>
+                        <li><a href="admission.html">Đăng ký</a></li>
+                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="careers.html">Tuyển dụng</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Tài nguyên</h3>
+                    <ul>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="resources.html">Tài liệu</a></li>
+                        <li><a href="events.html">Sự kiện</a></li>
+                        <li><a href="privacy.html">Chính sách bảo mật</a></li>
+                        <li><a href="terms.html">Điều khoản sử dụng</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Liên hệ</h3>
+                    <ul class="contact-info">
+                        <li><i class="fas fa-map-marker-alt"></i> [Địa chỉ trường]</li>
+                        <li><i class="fas fa-phone"></i> [Số điện thoại]</li>
+                        <li><i class="fas fa-envelope"></i> info@nhathuannhien.edu.vn</li>
+                        <li><i class="fas fa-clock"></i> T2-T6: 7:30 - 17:00</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Trường Waldorf Nhà Thuận Nhiên. Tất cả quyền được bảo lưu.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
